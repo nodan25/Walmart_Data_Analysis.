@@ -1,6 +1,6 @@
 # 🛒 Walmart Data Analysis | SQL + Python + Power BI
 
-An end-to-end **Data Analysis Project** using **Python, SQL (MySQL & PostgreSQL), and Power BI** to analyze Walmart sales data and generate actionable business insights.
+An end-to-end **Data Analysis Project** using **Python, SQL (MySQL), and Power BI** to analyze Walmart sales data and generate actionable business insights.
 
 ---
 
@@ -8,7 +8,6 @@ An end-to-end **Data Analysis Project** using **Python, SQL (MySQL & PostgreSQL)
 
 - 🐍 Python
 - 🗄️ MySQL
-- 🐘 PostgreSQL
 - 📊 Power BI
 - 📈 Pandas & NumPy
 - 🔗 SQLAlchemy
@@ -44,7 +43,6 @@ An end-to-end **Data Analysis Project** using **Python, SQL (MySQL & PostgreSQL)
 
 ### 6️⃣ Database Integration
 - 🐬 Load data into MySQL
-- 🐘 Load data into PostgreSQL
 
 ### 7️⃣ SQL Analysis
 Solve business problems such as:
